@@ -3,8 +3,10 @@ I am a third-year Master student at [PKUSZ CIRE Lab](https://netlab.pkusz.edu.cn
 Email: dengyang17dydy AT gmail DOT com
 
 ### Education
-*Sept. 2016 - Jun. 2019, M.S., School of Electronic & Computer Engineering, Peking University
-*Sept. 2012 - Jun. 2016, B.E., School of Electronic Engineering, Beijing University of Posts and Telecommunications
+* Sept. 2016 - Jun. 2019,
+M.S., School of Electronic & Computer Engineering, Peking University
+* Sept. 2012 - Jun. 2016,
+B.E., School of Electronic Engineering, Beijing University of Posts and Telecommunications
 
 ### Research interests
 * Deep learning and natural language processing
