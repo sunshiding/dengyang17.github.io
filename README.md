@@ -26,12 +26,12 @@ B.E., School of Electronic Engineering, Beijing University of Posts and Telecomm
 * Ying Shen, Yaliang Li, **Yang Deng**, Jin Zhang, Min Yang, Shangchun Si, Kai Lei. **Gastroenterology Ontology Construction using Synonym Identification and Relation Extraction.** _IEEE Access 2018_. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8425033)][[BibTex](https://dblp.uni-trier.de/rec/bibtex/journals/access/ShenLDZYCSL18)]
 
 ### Honors & Awards
-*	2019, Outstanding Graduates Awards, Beijing
-*	2019, Outstanding Graduates Awards, Peking University
+*	2019, Excellent Graduate Award, Beijing
+*	2019, Excellent Graduate Award, Peking University
 *	AAAI Student Scholarship, 2019
 *	ACM SIGIR Student Travel Grant, 2018 
 *	2018, Merit Student, Peking University
 *	2018, May 4th Merit Scholarship, Peking University
-*	2016, Outstanding Graduates Awards, Beijing
+*	2016, Excellent Graduate Award, Beijing
 *	2013, 2014, 2015, Merit Student, Beijing University of Posts and Telecommunications
 *	2013, 2014, 2015, Second-class Merit Scholarship, Beijing University of Posts and Telecommunications
