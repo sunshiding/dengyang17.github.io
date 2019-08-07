@@ -1,8 +1,10 @@
-I am a third-year Master student at [PKUSZ CIRE Lab](https://netlab.pkusz.edu.cn/).
+I am a first-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuhk.edu.hk/~textmine/).
 
 Email: dengyang17dydy AT gmail DOT com
 
 ### Education
+* Aug. 2016 - present, 
+Ph.D., Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong
 * Sept. 2016 - Jun. 2019,
 M.S., School of Electronic & Computer Engineering, Peking University
 * Sept. 2012 - Jun. 2016,
