@@ -3,7 +3,7 @@ I am a first-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuhk.
 Email: dengyang17dydy AT gmail DOT com
 
 ### Education
-* Aug. 2016 - present, 
+* Aug. 2019 - present, 
 Ph.D., Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong
 * Sept. 2016 - Jun. 2019,
 M.S., School of Electronic & Computer Engineering, Peking University
@@ -21,6 +21,7 @@ B.E., School of Electronic Engineering, Beijing University of Posts and Telecomm
 * Mar. 2015 - Jun. 2015, Research Intern, Language Computing & Web Mining Group @ Peking University
 
 ### Selected Publications
+* **Yang Deng**, Yaliang Li, Ying Shen, Nan Du, Wei Fan, Min Yang, Kai Lei. **MedTruth: A Semi-supervised Approach to Discovering Knowledge Condition Information from Multi-Source Medical Data.** In _The 28th ACM International Conference on Information and Knowledge Management_ (**CIKM 2019**). 
 * **Yang Deng**, Yuexiang Xie, Yaliang Li, Nan Du, Min Yang, Wei Fan, Kai Lei, Ying Shen. **Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering.** In _Proceedings of the 33rd AAAI Conference on Artificial Intelligence_ (**AAAI 2019, oral**). [[arxiv](https://arxiv.org/abs/1812.02354)][[code&data](https://github.com/dengyang17/MTQA)]
 * **Yang Deng**, Ying Shen, Min Yang, Yaliang Li, Nan Du, Wei Fan, Kai Lei. **Knowledge as A Bridge: Improving Cross-domain Answer Selection with External Knowledge.** In _Proceedings of the 27th International Conference on Computational Linguistics_ (**COLING 2018, oral**). [[pdf](http://aclweb.org/anthology/C18-1279)][[BibTex](https://aclanthology.info/papers/C18-1279/c18-1279.bib)]
 * Ying Shen, **Yang Deng\***, Min Yang, Yaliang Li, Nan Du, Wei Fan, Kai Lei. (\*Main Author) **Knowledge-aware Attention based Neural Network for Ranking Question Answering Pairs.** In _The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2018, poster**). [[pdf](https://dl.acm.org/citation.cfm?doid=3209978.3210081)][[code&data](https://github.com/dengyang17/kablstm)][[BibTex](https://dl.acm.org/citation.cfm?doid=3209978.3210081)]
