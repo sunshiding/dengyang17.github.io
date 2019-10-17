@@ -20,8 +20,8 @@ B.E., School of Electronic Engineering, Beijing University of Posts and Telecomm
 * Aug. 2015 - Jun. 2016, Algorithm Developer Intern, MoboTap (Beijing)
 * Mar. 2015 - Jun. 2015, Research Intern, Language Computing & Web Mining Group @ Peking University
 
-### Selected Publications
-* **Yang Deng**, Yaliang Li, Ying Shen, Nan Du, Wei Fan, Min Yang, Kai Lei. **MedTruth: A Semi-supervised Approach to Discovering Knowledge Condition Information from Multi-Source Medical Data.** In _The 28th ACM International Conference on Information and Knowledge Management_ (**CIKM 2019**). [[arxiv](https://arxiv.org/abs/1809.10404)] 
+### Selected Publications [[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=OshWT3UAAAAJ)]
+* **Yang Deng**, Yaliang Li, Ying Shen, Nan Du, Wei Fan, Min Yang, Kai Lei. **MedTruth: A Semi-supervised Approach to Discovering Knowledge Condition Information from Multi-Source Medical Data.** In _The 28th ACM International Conference on Information and Knowledge Management_ (**CIKM 2019, oral**). [[arxiv](https://arxiv.org/abs/1809.10404)] 
 * **Yang Deng**, Yuexiang Xie, Yaliang Li, Nan Du, Min Yang, Wei Fan, Kai Lei, Ying Shen. **Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering.** In _Proceedings of the 33rd AAAI Conference on Artificial Intelligence_ (**AAAI 2019, oral**). [[pdf](https://aaai.org/ojs/index.php/AAAI/article/view/4593)][[code&data](https://github.com/dengyang17/MTQA)]
 * **Yang Deng**, Ying Shen, Min Yang, Yaliang Li, Nan Du, Wei Fan, Kai Lei. **Knowledge as A Bridge: Improving Cross-domain Answer Selection with External Knowledge.** In _Proceedings of the 27th International Conference on Computational Linguistics_ (**COLING 2018, oral**). [[pdf](http://aclweb.org/anthology/C18-1279)][[BibTex](https://aclanthology.info/papers/C18-1279/c18-1279.bib)]
 * Ying Shen, **Yang Deng\***, Min Yang, Yaliang Li, Nan Du, Wei Fan, Kai Lei. (\*Main Author) **Knowledge-aware Attention based Neural Network for Ranking Question Answering Pairs.** In _The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2018, poster**). [[pdf](https://dl.acm.org/citation.cfm?doid=3209978.3210081)][[code&data](https://github.com/dengyang17/kablstm)][[BibTex](https://dl.acm.org/citation.cfm?doid=3209978.3210081)]
@@ -29,12 +29,10 @@ B.E., School of Electronic Engineering, Beijing University of Posts and Telecomm
 * Ying Shen, Yaliang Li, **Yang Deng**, Jin Zhang, Min Yang, Shangchun Si, Kai Lei. **Gastroenterology Ontology Construction using Synonym Identification and Relation Extraction.** _IEEE Access 2018_. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8425033)][[BibTex](https://dblp.uni-trier.de/rec/bibtex/journals/access/ShenLDZYCSL18)]
 
 ### Honors & Awards
-*	2019, Excellent Graduate Award, Beijing
+*	ACM SIGIR Student Travel Grant, CIKM 2019 
+*	2019, Excellent Graduate Award (top 2%), Beijing 
 *	2019, Excellent Graduate Award, Peking University
 *	AAAI Student Scholarship, 2019
-*	ACM SIGIR Student Travel Grant, 2018 
-*	2018, Merit Student, Peking University
-*	2018, May 4th Merit Scholarship, Peking University
-*	2016, Excellent Graduate Award, Beijing
-*	2013, 2014, 2015, Merit Student, Beijing University of Posts and Telecommunications
-*	2013, 2014, 2015, Second-class Merit Scholarship, Beijing University of Posts and Telecommunications
+*	ACM SIGIR Student Travel Grant, SIGIR 2018 
+*	2016, Excellent Graduate Award (top 10%), Beijing 
+
