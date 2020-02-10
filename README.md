@@ -11,7 +11,7 @@ M.S., School of Electronic & Computer Engineering, Peking University
 B.E., School of Electronic Engineering, Beijing University of Posts and Telecommunications
 
 ### Research interests
-* Deep learning and natural language processing
+* Deep learning for natural language processing
 * Especially, question answering and knowledge graph related issues
 
 ### Experiences
@@ -21,14 +21,41 @@ B.E., School of Electronic Engineering, Beijing University of Posts and Telecomm
 * Mar. 2015 - Jun. 2015, Research Intern, Language Computing & Web Mining Group @ Peking University
 
 ### Selected Publications [[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=OshWT3UAAAAJ)]
-* **Yang Deng**, Wai Lam, Yuexiang Xie, Daoyuan Chen Yaliang Li, Min Yang, Ying Shen. **Joint Learning of Answer Selection and Answer Summary Generation in Community Question Answering.** In _Proceedings of the 34rd AAAI Conference on Artificial Intelligence_ (**AAAI 2020, oral**). [[arxiv](https://arxiv.org/abs/1911.09801)][[data](https://github.com/dengyang17/wikihowQA/)]
-* Wenxuan Zhang, Wai Lam, **Yang Deng**, Jing Ma. **Review-guided Helpful Answer Identification in E-commerce.** In _The World Wide Web Conference_ (**WWW 2020, oral**). 
-* **Yang Deng**, Yaliang Li, Ying Shen, Nan Du, Wei Fan, Min Yang, Kai Lei. **MedTruth: A Semi-supervised Approach to Discovering Knowledge Condition Information from Multi-Source Medical Data.** In _The 28th ACM International Conference on Information and Knowledge Management_ (**CIKM 2019, oral**). [[arxiv](https://arxiv.org/abs/1809.10404)] 
-* **Yang Deng**, Yuexiang Xie, Yaliang Li, Nan Du, Min Yang, Wei Fan, Kai Lei, Ying Shen. **Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering.** In _Proceedings of the 33rd AAAI Conference on Artificial Intelligence_ (**AAAI 2019, oral**). [[pdf](https://aaai.org/ojs/index.php/AAAI/article/view/4593)][[code&data](https://github.com/dengyang17/MTQA)]
-* **Yang Deng**, Ying Shen, Min Yang, Yaliang Li, Nan Du, Wei Fan, Kai Lei. **Knowledge as A Bridge: Improving Cross-domain Answer Selection with External Knowledge.** In _Proceedings of the 27th International Conference on Computational Linguistics_ (**COLING 2018, oral**). [[pdf](http://aclweb.org/anthology/C18-1279)][[BibTex](https://aclanthology.info/papers/C18-1279/c18-1279.bib)]
-* Ying Shen, **Yang Deng\***, Min Yang, Yaliang Li, Nan Du, Wei Fan, Kai Lei. (\*Main Author) **Knowledge-aware Attention based Neural Network for Ranking Question Answering Pairs.** In _The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2018, poster**). [[pdf](https://dl.acm.org/citation.cfm?doid=3209978.3210081)][[code&data](https://github.com/dengyang17/kablstm)][[BibTex](https://dl.acm.org/citation.cfm?doid=3209978.3210081)]
-* Ying Shen, **Yang Deng**, Jin Zhang, Yaliang Li, Nan Du, Wei Fan, Kai Lei. **IDDAT: An Ontology-Driven Decision Support System for Infectious Disease Diagnosis and Therapy.** In _2018 IEEE International Conference on Data Mining Workshops_ (**ICDM Workshops 2018**). [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8637479)][[BibTex](https://dblp.uni-trier.de/rec/bibtex/conf/icdm/ShenDZLDFYL18)]
-* Ying Shen, Yaliang Li, **Yang Deng**, Jin Zhang, Min Yang, Shangchun Si, Kai Lei. **Gastroenterology Ontology Construction using Synonym Identification and Relation Extraction.** _IEEE Access 2018_. [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8425033)][[BibTex](https://dblp.uni-trier.de/rec/bibtex/journals/access/ShenLDZYCSL18)]
+* **Joint Learning of Answer Selection and Answer Summary Generation in Community Question Answering.** <br>
+**Yang Deng**, Wai Lam, Yuexiang Xie, Daoyuan Chen Yaliang Li, Min Yang, Ying Shen. <br>
+In _Proceedings of the 34rd AAAI Conference on Artificial Intelligence_ (**AAAI 2020, oral**). <br>
+[[arxiv](https://arxiv.org/abs/1911.09801)][[data](https://github.com/dengyang17/wikihowQA/)]
+* **Review-guided Helpful Answer Identification in E-commerce.** <br>
+Wenxuan Zhang, Wai Lam, **Yang Deng**, Jing Ma. <br>
+In _The World Wide Web Conference_ (**WWW 2020, oral**). 
+* **MedTruth: A Semi-supervised Approach to Discovering Knowledge Condition Information from Multi-Source Medical Data.** <br>
+**Yang Deng**, Yaliang Li, Ying Shen, Nan Du, Wei Fan, Min Yang, Kai Lei. <br>
+In _The 28th ACM International Conference on Information and Knowledge Management_ (**CIKM 2019, oral**). <br>
+[[arxiv](https://arxiv.org/abs/1809.10404)] 
+* **Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering.** <br>
+**Yang Deng**, Yuexiang Xie, Yaliang Li, Nan Du, Min Yang, Wei Fan, Kai Lei, Ying Shen. <br> 
+In _Proceedings of the 33rd AAAI Conference on Artificial Intelligence_ (**AAAI 2019, oral**). <br>
+[[pdf](https://aaai.org/ojs/index.php/AAAI/article/view/4593)][[code&data](https://github.com/dengyang17/MTQA)]
+* **Knowledge as A Bridge: Improving Cross-domain Answer Selection with External Knowledge.** <br>
+**Yang Deng**, Ying Shen, Min Yang, Yaliang Li, Nan Du, Wei Fan, Kai Lei. <br> 
+In _Proceedings of the 27th International Conference on Computational Linguistics_ (**COLING 2018, oral**). <br>
+[[pdf](http://aclweb.org/anthology/C18-1279)][[BibTex](https://aclanthology.info/papers/C18-1279/c18-1279.bib)]
+* **Knowledge-aware Attention based Neural Network for Ranking Question Answering Pairs.** <br>
+Ying Shen, **Yang Deng\***, Min Yang, Yaliang Li, Nan Du, Wei Fan, Kai Lei. (\*Main Author) <br> 
+In _The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2018, poster**). <br>
+[[pdf](https://dl.acm.org/citation.cfm?doid=3209978.3210081)][[code&data](https://github.com/dengyang17/kablstm)][[BibTex](https://dl.acm.org/citation.cfm?doid=3209978.3210081)]
+* **IDDAT: An Ontology-Driven Decision Support System for Infectious Disease Diagnosis and Therapy.**  <br>
+Ying Shen, **Yang Deng**, Jin Zhang, Yaliang Li, Nan Du, Wei Fan, Kai Lei. <br> 
+In _2018 IEEE International Conference on Data Mining Workshops_ (**ICDM Workshops 2018**). <br>
+[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8637479)][[BibTex](https://dblp.uni-trier.de/rec/bibtex/conf/icdm/ShenDZLDFYL18)]
+* **Gastroenterology Ontology Construction using Synonym Identification and Relation Extraction.** <br>
+Ying Shen, Yaliang Li, **Yang Deng**, Jin Zhang, Min Yang, Shangchun Si, Kai Lei. <br> 
+_IEEE Access 2018_. <br>
+[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8425033)][[BibTex](https://dblp.uni-trier.de/rec/bibtex/journals/access/ShenLDZYCSL18)]
+
+### Professional Activities
+* Reviewer (or PC Member): ACL 2020, AAAI 2020, IJCAI 2019
+* Secondary Reviewer: WWW 2020, WSDM 2020, KDD 2019
 
 ### Honors & Awards
 *	ACM SIGIR Student Travel Grant, CIKM 2019 
