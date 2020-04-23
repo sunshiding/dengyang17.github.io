@@ -21,13 +21,20 @@ B.E., School of Electronic Engineering, Beijing University of Posts and Telecomm
 * Mar. 2015 - Jun. 2015, Research Intern, Language Computing & Web Mining Group @ Peking University
 
 ### Selected Publications [[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=OshWT3UAAAAJ)]
+* **Bridging Hierarchical and Sequential Context Modeling for Question-driven Extractive Answer Summarization.** <br>
+**Yang Deng**, Wenxuan Zhang, Yaliang Li, Min Yang, Wai Lam and Ying Shen. <br>
+To be appear in _The 43rd International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2020**). 
+* **Answer Ranking for Product-Related Questions via Multiple Semantic Relations Modeling.** <br>
+Wenxuan Zhang, **Yang Deng**, Wai Lam. <br>
+To be appear in _The 43rd International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2020**). 
+* **Review-guided Helpful Answer Identification in E-commerce.** <br>
+Wenxuan Zhang, Wai Lam, **Yang Deng**, Jing Ma. <br>
+In _The World Wide Web Conference_ (**WWW 2020, oral**). <br>
+[[arxiv](https://arxiv.org/abs/2003.06209)]
 * **Joint Learning of Answer Selection and Answer Summary Generation in Community Question Answering.** <br>
 **Yang Deng**, Wai Lam, Yuexiang Xie, Daoyuan Chen Yaliang Li, Min Yang, Ying Shen. <br>
 In _Proceedings of the 34rd AAAI Conference on Artificial Intelligence_ (**AAAI 2020, oral**). <br>
 [[arxiv](https://arxiv.org/abs/1911.09801)][[data](https://github.com/dengyang17/wikihowQA/)]
-* **Review-guided Helpful Answer Identification in E-commerce.** <br>
-Wenxuan Zhang, Wai Lam, **Yang Deng**, Jing Ma. <br>
-In _The World Wide Web Conference_ (**WWW 2020, oral**). 
 * **MedTruth: A Semi-supervised Approach to Discovering Knowledge Condition Information from Multi-Source Medical Data.** <br>
 **Yang Deng**, Yaliang Li, Ying Shen, Nan Du, Wei Fan, Min Yang, Kai Lei. <br>
 In _The 28th ACM International Conference on Information and Knowledge Management_ (**CIKM 2019, oral**). <br>
@@ -54,8 +61,8 @@ _IEEE Access 2018_. <br>
 [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8425033)][[BibTex](https://dblp.uni-trier.de/rec/bibtex/journals/access/ShenLDZYCSL18)]
 
 ### Professional Activities
-* Reviewer (or PC Member): ACL 2020, AAAI 2020, IJCAI 2019
-* Secondary Reviewer: WWW 2020, WSDM 2020, KDD 2019
+* Reviewer (or PC Member): EMNLP 2020, ACL 2020, AAAI 2020, IJCAI 2019-2020
+* Secondary Reviewer: SIGIR 2020, WWW 2020, WSDM 2020, KDD 2019
 
 ### Honors & Awards
 *	ACM SIGIR Student Travel Grant, CIKM 2019 
