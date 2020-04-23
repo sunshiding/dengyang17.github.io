@@ -23,10 +23,10 @@ B.E., School of Electronic Engineering, Beijing University of Posts and Telecomm
 ### Selected Publications [[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=OshWT3UAAAAJ)]
 * **Bridging Hierarchical and Sequential Context Modeling for Question-driven Extractive Answer Summarization.** <br>
 **Yang Deng**, Wenxuan Zhang, Yaliang Li, Min Yang, Wai Lam and Ying Shen. <br>
-To be appear in _The 43rd International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2020**). 
+To appear in _The 43rd International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2020**). 
 * **Answer Ranking for Product-Related Questions via Multiple Semantic Relations Modeling.** <br>
 Wenxuan Zhang, **Yang Deng**, Wai Lam. <br>
-To be appear in _The 43rd International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2020**). 
+To appear in _The 43rd International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2020**). 
 * **Review-guided Helpful Answer Identification in E-commerce.** <br>
 Wenxuan Zhang, Wai Lam, **Yang Deng**, Jing Ma. <br>
 In _The World Wide Web Conference_ (**WWW 2020, oral**). <br>
@@ -55,10 +55,6 @@ In _The 41st International ACM SIGIR Conference on Research & Development in Inf
 Ying Shen, **Yang Deng**, Jin Zhang, Yaliang Li, Nan Du, Wei Fan, Kai Lei. <br> 
 In _2018 IEEE International Conference on Data Mining Workshops_ (**ICDM Workshops 2018**). <br>
 [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8637479)][[BibTex](https://dblp.uni-trier.de/rec/bibtex/conf/icdm/ShenDZLDFYL18)]
-* **Gastroenterology Ontology Construction using Synonym Identification and Relation Extraction.** <br>
-Ying Shen, Yaliang Li, **Yang Deng**, Jin Zhang, Min Yang, Shangchun Si, Kai Lei. <br> 
-_IEEE Access 2018_. <br>
-[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8425033)][[BibTex](https://dblp.uni-trier.de/rec/bibtex/journals/access/ShenLDZYCSL18)]
 
 ### Professional Activities
 * Reviewer (or PC Member): EMNLP 2020, ACL 2020, AAAI 2020, IJCAI 2019-2020
