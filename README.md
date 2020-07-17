@@ -21,6 +21,9 @@ B.E., School of Electronic Engineering, Beijing University of Posts and Telecomm
 * Mar. 2015 - Jun. 2015, Research Intern, Language Computing & Web Mining Group @ Peking University
 
 ### Selected Publications [[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=OshWT3UAAAAJ)]
+* **Opinion-aware Answer Generation for Review-driven Question Answering in E-Commerce.** <br>
+**Yang Deng**, Wenxuan Zhang, Wai Lam. <br>
+In _The 29th ACM International Conference on Information and Knowledge Management_ (**CIKM 2020, oral**). <br>
 * **Bridging Hierarchical and Sequential Context Modeling for Question-driven Extractive Answer Summarization.** <br>
 **Yang Deng**, Wenxuan Zhang, Yaliang Li, Min Yang, Wai Lam and Ying Shen. <br>
 To appear in _The 43rd International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2020**). 
@@ -58,7 +61,7 @@ In _2018 IEEE International Conference on Data Mining Workshops_ (**ICDM Worksho
 
 ### Professional Activities
 * Reviewer (or PC Member): EMNLP 2020, ACL 2020, AAAI 2020, IJCAI 2019-2020
-* Secondary Reviewer: SIGIR 2020, WWW 2020, WSDM 2020, KDD 2019
+* Secondary Reviewer: CIKM 2020, SIGIR 2020, WWW 2020, WSDM 2020, KDD 2019
 
 ### Honors & Awards
 *	ACM SIGIR Student Travel Grant, CIKM 2019 
