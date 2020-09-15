@@ -1,4 +1,4 @@
-I am a first-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuhk.edu.hk/~textmine/).
+I am a second-year Ph.D. student at [CUHK Text Mining Group](http://www1.se.cuhk.edu.hk/~textmine/).
 
 Email: dengyang17dydy AT gmail DOT com
 
@@ -11,7 +11,7 @@ M.S., School of Electronic & Computer Engineering, Peking University
 B.E., School of Electronic Engineering, Beijing University of Posts and Telecommunications
 
 ### Research interests
-* Deep learning for natural language processing
+* Deep learning for natural language processing and information retrieval
 * Especially, question answering and knowledge graph related issues
 
 ### Experiences
