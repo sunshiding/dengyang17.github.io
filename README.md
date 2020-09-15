@@ -25,7 +25,7 @@ B.E., School of Electronic Engineering, Beijing University of Posts and Telecomm
 **Yang Deng**, Wenxuan Zhang, Wai Lam. <br>
 To appear in _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing_ (**EMNLP 2020**). <br>
 * **AnswerFact: Fact Checking in Product Question Answering.** <br>
-Wenxuan Zhang, **Yang Deng**, Wai Lam, Jing Ma. <br>
+Wenxuan Zhang, **Yang Deng**, Jing Ma, Wai Lam. <br>
 To appear in _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing_ (**EMNLP 2020**). <br>
 * **Opinion-aware Answer Generation for Review-driven Question Answering in E-Commerce.** <br>
 **Yang Deng**, Wenxuan Zhang, Wai Lam. <br>
