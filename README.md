@@ -21,15 +21,24 @@ B.E., School of Electronic Engineering, Beijing University of Posts and Telecomm
 * Mar. 2015 - Jun. 2015, Research Intern, Language Computing & Web Mining Group @ Peking University
 
 ### Selected Publications [[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=OshWT3UAAAAJ)]
+* **Multi-hop Inference for Question-driven Summarization.** <br>
+**Yang Deng**, Wenxuan Zhang, Wai Lam. <br>
+To appear in _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing_ (**EMNLP 2020**). <br>
+* **AnswerFact: Fact Checking in Product Question Answering.** <br>
+Wenxuan Zhang, **Yang Deng**, Wai Lam, Jing Ma. <br>
+To appear in _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing_ (**EMNLP 2020**). <br>
 * **Opinion-aware Answer Generation for Review-driven Question Answering in E-Commerce.** <br>
 **Yang Deng**, Wenxuan Zhang, Wai Lam. <br>
-In _The 29th ACM International Conference on Information and Knowledge Management_ (**CIKM 2020**). <br>
+To appear in _The 29th ACM International Conference on Information and Knowledge Management_ (**CIKM 2020**). <br>
+[[arxiv](https://arxiv.org/abs/2008.11972)]
 * **Bridging Hierarchical and Sequential Context Modeling for Question-driven Extractive Answer Summarization.** <br>
 **Yang Deng**, Wenxuan Zhang, Yaliang Li, Min Yang, Wai Lam and Ying Shen. <br>
-To appear in _The 43rd International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2020**). 
+In _The 43rd International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2020**). 
+[[pdf](https://dl.acm.org/doi/abs/10.1145/3397271.3401208)][[code&data](https://github.com/dengyang17/hscm)]
 * **Answer Ranking for Product-Related Questions via Multiple Semantic Relations Modeling.** <br>
 Wenxuan Zhang, **Yang Deng**, Wai Lam. <br>
-To appear in _The 43rd International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2020**). 
+In _The 43rd International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2020**). 
+[[arxiv](https://arxiv.org/abs/2006.15599)]
 * **Review-guided Helpful Answer Identification in E-commerce.** <br>
 Wenxuan Zhang, Wai Lam, **Yang Deng**, Jing Ma. <br>
 In _The World Wide Web Conference_ (**WWW 2020, oral**). <br>
@@ -60,14 +69,13 @@ In _2018 IEEE International Conference on Data Mining Workshops_ (**ICDM Worksho
 [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8637479)][[BibTex](https://dblp.uni-trier.de/rec/bibtex/conf/icdm/ShenDZLDFYL18)]
 
 ### Professional Activities
-* Reviewer (or PC Member): EMNLP 2020, ACL 2020, AAAI 2020, IJCAI 2019-2020
+* Reviewer (or PC Member): EMNLP 2020, ACL 2020, AAAI 2020-2021, IJCAI 2019-2020
 * Secondary Reviewer: CIKM 2020, SIGIR 2020, WWW 2020, WSDM 2020, KDD 2019
 
 ### Honors & Awards
-*	ACM SIGIR Student Travel Grant, CIKM 2019 
+*	ACM SIGIR Student Travel Grant, SIGIR 2018, CIKM 2019, SIGIR 2020, CIKM 2020
 *	2019, Excellent Graduate Award (top 2%), Beijing 
 *	2019, Excellent Graduate Award, Peking University
 *	AAAI Student Scholarship, 2019
-*	ACM SIGIR Student Travel Grant, SIGIR 2018 
 *	2016, Excellent Graduate Award (top 10%), Beijing 
 
