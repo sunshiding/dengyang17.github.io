@@ -33,11 +33,11 @@ To appear in _The 29th ACM International Conference on Information and Knowledge
 [[arxiv](https://arxiv.org/abs/2008.11972)]
 * **Bridging Hierarchical and Sequential Context Modeling for Question-driven Extractive Answer Summarization.** <br>
 **Yang Deng**, Wenxuan Zhang, Yaliang Li, Min Yang, Wai Lam and Ying Shen. <br>
-In _The 43rd International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2020**). 
+In _The 43rd International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2020**). <br>
 [[pdf](https://dl.acm.org/doi/abs/10.1145/3397271.3401208)][[code&data](https://github.com/dengyang17/hscm)]
 * **Answer Ranking for Product-Related Questions via Multiple Semantic Relations Modeling.** <br>
 Wenxuan Zhang, **Yang Deng**, Wai Lam. <br>
-In _The 43rd International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2020**). 
+In _The 43rd International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2020**). <br>
 [[arxiv](https://arxiv.org/abs/2006.15599)]
 * **Review-guided Helpful Answer Identification in E-commerce.** <br>
 Wenxuan Zhang, Wai Lam, **Yang Deng**, Jing Ma. <br>
