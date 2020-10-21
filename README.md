@@ -21,16 +21,20 @@ B.E., School of Electronic Engineering, Beijing University of Posts and Telecomm
 * Mar. 2015 - Jun. 2015, Research Intern, Language Computing & Web Mining Group @ Peking University
 
 ### Selected Publications [[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=OshWT3UAAAAJ)]
+* **Intra-/Inter-Interaction Network with Latent Interaction Modeling for Multi-turn Response Selection.** <br>
+**Yang Deng**, Wenxuan Zhang, Wai Lam. <br> 
+In _Proceedings of the 28th International Conference on Computational Linguistics_ (**COLING 2020**). <br>
 * **Multi-hop Inference for Question-driven Summarization.** <br>
 **Yang Deng**, Wenxuan Zhang, Wai Lam. <br>
 To appear in _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing_ (**EMNLP 2020**). <br>
+[[arxiv](https://arxiv.org/abs/2010.03738)][[code](https://github.com/dengyang17/msg)]
 * **AnswerFact: Fact Checking in Product Question Answering.** <br>
 Wenxuan Zhang, **Yang Deng**, Jing Ma, Wai Lam. <br>
 To appear in _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing_ (**EMNLP 2020**). <br>
 * **Opinion-aware Answer Generation for Review-driven Question Answering in E-Commerce.** <br>
 **Yang Deng**, Wenxuan Zhang, Wai Lam. <br>
 To appear in _The 29th ACM International Conference on Information and Knowledge Management_ (**CIKM 2020**). <br>
-[[arxiv](https://arxiv.org/abs/2008.11972)]
+[[arxiv](https://arxiv.org/abs/2008.11972)][[code&data](https://github.com/dengyang17/OAAG)]
 * **Bridging Hierarchical and Sequential Context Modeling for Question-driven Extractive Answer Summarization.** <br>
 **Yang Deng**, Wenxuan Zhang, Yaliang Li, Min Yang, Wai Lam and Ying Shen. <br>
 In _The 43rd International ACM SIGIR Conference on Research & Development in Information Retrieval_ (**SIGIR 2020**). <br>
@@ -54,7 +58,7 @@ In _The 28th ACM International Conference on Information and Knowledge Managemen
 * **Multi-Task Learning with Multi-View Attention for Answer Selection and Knowledge Base Question Answering.** <br>
 **Yang Deng**, Yuexiang Xie, Yaliang Li, Nan Du, Min Yang, Wei Fan, Kai Lei, Ying Shen. <br> 
 In _Proceedings of the 33rd AAAI Conference on Artificial Intelligence_ (**AAAI 2019, oral**). <br>
-[[pdf](https://aaai.org/ojs/index.php/AAAI/article/view/4593)][[code&data](https://github.com/dengyang17/MTQA)]
+[[pdf](https://aaai.org/ojs/index.php/AAAI/article/view/4593)][[data](https://github.com/dengyang17/MTQA)]
 * **Knowledge as A Bridge: Improving Cross-domain Answer Selection with External Knowledge.** <br>
 **Yang Deng**, Ying Shen, Min Yang, Yaliang Li, Nan Du, Wei Fan, Kai Lei. <br> 
 In _Proceedings of the 27th International Conference on Computational Linguistics_ (**COLING 2018, oral**). <br>
