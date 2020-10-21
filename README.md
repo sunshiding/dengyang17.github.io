@@ -23,7 +23,7 @@ B.E., School of Electronic Engineering, Beijing University of Posts and Telecomm
 ### Selected Publications [[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=OshWT3UAAAAJ)]
 * **Intra-/Inter-Interaction Network with Latent Interaction Modeling for Multi-turn Response Selection.** <br>
 **Yang Deng**, Wenxuan Zhang, Wai Lam. <br> 
-In _Proceedings of the 28th International Conference on Computational Linguistics_ (**COLING 2020**). <br>
+To appear in _Proceedings of the 28th International Conference on Computational Linguistics_ (**COLING 2020**). <br>
 * **Multi-hop Inference for Question-driven Summarization.** <br>
 **Yang Deng**, Wenxuan Zhang, Wai Lam. <br>
 To appear in _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing_ (**EMNLP 2020**). <br>
