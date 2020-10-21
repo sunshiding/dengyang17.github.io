@@ -33,7 +33,7 @@ Wenxuan Zhang, **Yang Deng**, Jing Ma, Wai Lam. <br>
 To appear in _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing_ (**EMNLP 2020**). <br>
 * **Opinion-aware Answer Generation for Review-driven Question Answering in E-Commerce.** <br>
 **Yang Deng**, Wenxuan Zhang, Wai Lam. <br>
-To appear in _The 29th ACM International Conference on Information and Knowledge Management_ (**CIKM 2020**). <br>
+In _The 29th ACM International Conference on Information and Knowledge Management_ (**CIKM 2020**). <br>
 [[arxiv](https://arxiv.org/abs/2008.11972)][[code&data](https://github.com/dengyang17/OAAG)]
 * **Bridging Hierarchical and Sequential Context Modeling for Question-driven Extractive Answer Summarization.** <br>
 **Yang Deng**, Wenxuan Zhang, Yaliang Li, Min Yang, Wai Lam and Ying Shen. <br>
